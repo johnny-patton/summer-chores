@@ -2,7 +2,7 @@
 
 Overview:
 
-Summer chores is from the Module 3 Week 2 lesson on JavaScript Promises. As part of the script, a user, in this case "Steve", has a list of chores that has to be done every Saturday. There is a strict order to the chores, and each one takes a set amount of time. On the second and subsequent chores, Steve will have a random chance of getting tired and falling asleep. If Steve doen't get tired while performing his chores, he will have successfully completed all his chores!
+Summer chores is from the Module 3 Week 2 lesson on asynchronous functions in JavaScript utilizing async and await. As part of the script, a user, in this case "Steve", has a list of chores that has to be done every Saturday. There is a strict order to the chores, and each one takes a set amount of time. On the second and subsequent chores, Steve will have a random chance of getting tired and falling asleep. If Steve doen't get tired while performing his chores, he will have successfully completed all his chores!
 
 
 ## List of Chores
@@ -34,7 +34,7 @@ Summer chores is from the Module 3 Week 2 lesson on JavaScript Promises. As part
    ```
 3. Execute the script.
     ```bash
-    node promiseVersion.js
+    node asyncAwaitVersion.js
     ```
 
 
